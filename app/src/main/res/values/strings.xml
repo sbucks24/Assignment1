@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="main_menu">Main Activity</string>
+    <string name="numberOfAnswers">Number of Answered Questions: </string>
+    <string name="numberOfAnswers2">/5</string>
+    <string name="ask_question">Answer Question</string>
+
+    <string name="questionText">Question:  </string>
+    <string name="noButton">No</string>
+    <string name="yesButton">Yes</string>
+
+    <string name="numOfYes">Number Of Yeses: </string>
+    <string name="numOfNo">Number Of Nos: </string>
+</resources>

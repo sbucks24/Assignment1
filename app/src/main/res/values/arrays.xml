@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Questions">
+        <item>Do you like pizza?</item>
+        <item>Obviously you said yes, so do you like Pepperoni Pizza?</item>
+        <item>Do you like Hawaiian Pizza? </item>
+        <item>Do you like Canadian Pizza?</item>
+        <item>Do you like Veggie Pizza?</item>
+    </string-array>
+</resources>
